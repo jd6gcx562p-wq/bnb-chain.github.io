@@ -21,7 +21,7 @@
       
       
       <link rel="icon" href="../../assets/bnb.svg">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.5">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
     
     
     
@@ -986,6 +986,34 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Upgrade Timeline">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#notable-bep-652-transaction-gas-limit-cap" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Notable: BEP-652 — Transaction Gas Limit Cap
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#upgrade-bsc-mainnet-nodes-to-v172-before-hardfork" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Upgrade BSC Mainnet Nodes to v1.7.2 Before Hardfork
+      
+    </span>
+  </a>
+  
 </li>
       
     </ul>
@@ -1027,15 +1055,18 @@
 </div>
 
 <h2 id="upgrade-timeline">Upgrade Timeline<a class="headerlink" href="#upgrade-timeline" title="Link to this section">¶</a></h2>
-<p>The Mendel upgrade will happen at:</p>
 <ul>
-<li>Testnet:  2026-03</li>
-<li>Mainnet:  2026-04</li>
+<li><strong>Testnet:</strong> 2026-03-24 02:30:00 AM UTC — enabled</li>
+<li><strong>Mainnet:</strong> 2026-04-28 02:30:00 AM UTC</li>
 </ul>
-<p>There are nine BEPs in Mendel:</p>
+<p>The Mendel upgrade bundles nine BEPs, all listed in the meta-BEP:</p>
 <ul>
 <li><a href="https://github.com/bnb-chain/BEPs/blob/master/BEPs/BEP-658.md">BEP-658: Hardfork Meta-Osaka/Mendel</a></li>
-</ul></div>
+</ul>
+<h3 id="notable-bep-652-transaction-gas-limit-cap">Notable: BEP-652 — Transaction Gas Limit Cap<a class="headerlink" href="#notable-bep-652-transaction-gas-limit-cap" title="Link to this section">¶</a></h3>
+<p><a href="https://github.com/bnb-chain/BEPs/blob/master/BEPs/BEP-652.md">BEP-652</a> implements <a href="https://eips.ethereum.org/EIPS/eip-7825">EIP-7825</a>, enforcing a mandatory protocol-level cap on individual transaction gas at <strong>16,777,216 gas (2^24)</strong>. Transactions exceeding this limit will be rejected during validation.</p>
+<h2 id="upgrade-bsc-mainnet-nodes-to-v172-before-hardfork">Upgrade BSC Mainnet Nodes to v1.7.2 Before Hardfork<a class="headerlink" href="#upgrade-bsc-mainnet-nodes-to-v172-before-hardfork" title="Link to this section">¶</a></h2>
+<p><a href="https://github.com/bnb-chain/bsc/releases/tag/v1.7.2">v1.7.2</a> is the required release for the BSC Mainnet Osaka/Mendel hardfork.</p></div>
 
 
 
