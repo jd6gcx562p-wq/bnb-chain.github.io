@@ -198,7 +198,7 @@
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/</loc>
-         <lastmod>2024-07-10</lastmod>
+         <lastmod>2026-06-12</lastmod>
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/introduction/</loc>
@@ -238,7 +238,7 @@
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/for-developers/get-started-dev/</loc>
-         <lastmod>2024-07-05</lastmod>
+         <lastmod>2026-06-09</lastmod>
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/for-developers/interact-node/</loc>
@@ -246,15 +246,7 @@
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/for-developers/apis-and-sdks/</loc>
-         <lastmod>2024-07-05</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/bnb-greenfield/for-developers/apis-and-sdks/sdk-go/</loc>
-         <lastmod>2024-07-02</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/bnb-greenfield/for-developers/apis-and-sdks/sdk-js/</loc>
-         <lastmod>2024-07-02</lastmod>
+         <lastmod>2026-06-12</lastmod>
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/for-developers/cross-chain-integration/contract-list/</loc>
@@ -390,7 +382,7 @@
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/getting-started/general-faqs/</loc>
-         <lastmod>2025-05-16</lastmod>
+         <lastmod>2026-06-09</lastmod>
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/getting-started/get-test-bnb/</loc>
@@ -426,7 +418,7 @@
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/storage-provider/storage-provider-lifecycle/</loc>
-         <lastmod>2024-07-05</lastmod>
+         <lastmod>2026-06-09</lastmod>
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-greenfield/storage-provider/run-book/common-issues/</loc>
@@ -558,7 +550,7 @@
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-opbnb/developers/quick-guide/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2026-06-12</lastmod>
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-opbnb/developers/set-gas-price/</loc>
@@ -626,7 +618,7 @@
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-smart-chain/developers/quick-guide/</loc>
-         <lastmod>2025-04-25</lastmod>
+         <lastmod>2026-06-12</lastmod>
     </url>
     <url>
          <loc>https://docs.bnbchain.org/bnb-smart-chain/developers/wallet-configuration/</loc>
@@ -809,6 +801,118 @@
          <lastmod>2025-03-12</lastmod>
     </url>
     <url>
+         <loc>https://docs.bnbchain.org/developer-kit/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/ask-ai/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/ask-ai/vs-code-guide/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbagent-sdk/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbagent-sdk/architecture/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbagent-sdk/configuration/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbagent-sdk/examples/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbagent-sdk/networks/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbagent-sdk/quickstart/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbagent-sdk/security/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbagent-sdk/troubleshooting/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/architecture/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/cli-reference/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/configuration/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/demo/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/deployment/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/quickstart/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/security/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/bnbchain-studio/troubleshooting/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/greenfield-sdk/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/mcp/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/mcp/skills/</loc>
+         <lastmod>2026-03-02</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/mpp-sdk/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/mpp-sdk/architecture/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/mpp-sdk/examples/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/mpp-sdk/quickstart/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.bnbchain.org/developer-kit/mpp-sdk/replay-store/</loc>
+         <lastmod>2026-06-12</lastmod>
+    </url>
+    <url>
          <loc>https://docs.bnbchain.org/join-ecosystem/</loc>
          <lastmod>2024-07-11</lastmod>
     </url>
@@ -823,77 +927,5 @@
     <url>
          <loc>https://docs.bnbchain.org/join-ecosystem/platforms/electrical-capital/</loc>
          <lastmod>2024-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/identity/attestation-dev/</loc>
-         <lastmod>2024-07-23</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/identity/attestation/</loc>
-         <lastmod>2024-07-23</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/identity/did/</loc>
-         <lastmod>2024-07-18</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/identity/dns-dev/</loc>
-         <lastmod>2024-07-23</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/identity/dns/</loc>
-         <lastmod>2024-07-23</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/mcp/</loc>
-         <lastmod>2026-03-02</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/mcp/ask-ai-to-ide/</loc>
-         <lastmod>2026-01-08</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/mcp/ask-ai-vs-code-guide/</loc>
-         <lastmod>2026-01-08</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/mcp/skills/</loc>
-         <lastmod>2026-03-02</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/telegram/minigame/</loc>
-         <lastmod>2024-07-21</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/telegram/wallets/</loc>
-         <lastmod>2024-10-03</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/tokenization/</loc>
-         <lastmod>2024-11-18</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/tokenization/account-preparation/</loc>
-         <lastmod>2024-11-18</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/tokenization/company-tokenization/</loc>
-         <lastmod>2025-05-12</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/tokenization/introduction/</loc>
-         <lastmod>2024-11-18</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/tokenization/nft-loyalty-programs/</loc>
-         <lastmod>2025-05-12</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/tokenization/rwa-tokenization/</loc>
-         <lastmod>2025-04-30</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.bnbchain.org/showcase/wallet/in-app-wallet/</loc>
-         <lastmod>2024-08-02</lastmod>
     </url>
 </urlset>
